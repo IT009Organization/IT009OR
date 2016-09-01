@@ -6,6 +6,8 @@
 //  Copyright © 2016年 lwx. All rights reserved.
 //
 
+
+//这是第二个人提交的代码
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
